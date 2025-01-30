@@ -1,2 +1,2 @@
-# Instagram-Clone
-Instagram clone with flutter
+# Instagram-UI
+Mobile Application Instagram ui clone with flutter
